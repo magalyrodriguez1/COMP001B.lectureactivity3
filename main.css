@@ -1,0 +1,25 @@
+
+nav{
+float: left;
+clear: left;
+width: 25%;
+background-color: lightgray;
+}
+
+main{
+    float: left;
+    clear: left;
+    width: 25%;
+    background-color: yellow;
+}
+
+aside{
+    float: left;
+    clear: left;
+    width: 25%;
+    background-color: orange;
+}
+
+footer{
+    clear: left;
+}
